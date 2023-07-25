@@ -1,0 +1,14 @@
+h1 {
+    font-family: arial;
+    font-size: 55px;
+    color: pink;
+    text-align: center;
+}
+p {
+    font-family: Arial;
+    font-size: 38px;
+    color: black;
+}
+li {
+    background-color: blueviolet;
+}
